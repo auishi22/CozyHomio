@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "segment_name": "Single-family homes",
+    "estate_title": "Modern Family Home",
+    "description": "Beautifully designed modern home perfect for families.",
+    "price": "$500,000",
+    "status": "sale",
+    "area": "2500 sq ft",
+    "location": "New York City",
+    "facilities": ["3 bedrooms", "2 bathrooms", "Spacious backyard"],
+    "image": "https://i.ibb.co/xXX6pr0/Single-family-homes.jpg"
+  },
+  {
+    "id": 2,
+    "segment_name": "Townhouses",
+    "estate_title": "Cozy Townhouse",
+    "description": "Charming townhouse with a cozy atmosphere.",
+    "price": "$300,000",
+    "status": "sale",
+    "area": "1800 sq ft",
+    "location": "San Francisco",
+    "facilities": ["2 bedrooms", "1.5 bathrooms", "Fireplace"],
+    "image": "https://i.ibb.co/0cknFnP/Townhouses.jpg"
+  },
+  {
+    "id": 3,
+    "segment_name": "Student housing",
+    "estate_title": "Student Apartment Complex",
+    "description": "Convenient and affordable housing for students.",
+    "price": "$1,000 per month",
+    "status": "rent",
+    "area": "1200 sq ft",
+    "location": "College Town",
+    "facilities": ["Close to campus", "Furnished units", "Shared amenities"],
+    "image": "https://i.ibb.co/DQf11Ld/Student-housing.jpg"
+  },
+  {
+    "id": 4,
+    "segment_name": "Senior living communities",
+    "estate_title": "Retirement Villa",
+    "description": "Retirement community offering comfort and care for seniors.",
+    "price": "$400,000",
+    "status": "sale",
+    "area": "2000 sq ft",
+    "location": "Sunny Retirement City",
+    "facilities": [
+      "Assisted living services",
+      "Social activities",
+      "Beautiful gardens"
+    ],
+    "image": "https://i.ibb.co/JC133nk/Retirement-Villa.jpg"
+  },
+  {
+    "id": 5,
+    "segment_name": "Vacation rentals",
+    "estate_title": "Beachfront Cottage",
+    "description": "Charming cottage perfect for a beach getaway.",
+    "price": "$200 per night",
+    "status": "rent",
+    "area": "1000 sq ft",
+    "location": "Coastal Paradise",
+    "facilities": ["Ocean view", "Private patio", "Walk to the beach"],
+    "image": "https://i.ibb.co/qkH1Gd3/Beachfront-Cottage.jpg"
+  },
+  {
+    "id": 6,
+    "segment_name": "Luxury Apartments",
+    "estate_title": "Skyline Penthouse",
+    "description": "Luxurious penthouse with breathtaking city views.",
+    "price": "$2,000,000",
+    "status": "sale",
+    "area": "3500 sq ft",
+    "location": "Metropolis",
+    "facilities": ["High-end finishes", "Private elevator", "Rooftop terrace"],
+    "image": "https://i.ibb.co/19vZ98D/Luxury-Apartments.jpg"
+  },
+  {
+    "id": 7,
+    "segment_name": "Family Retreats",
+    "estate_title": "Mountain Cabin",
+    "description": "Cozy cabin nestled in the mountains, perfect for family getaways.",
+    "price": "$600,000",
+    "status": "sale",
+    "area": "2800 sq ft",
+    "location": "Rocky Mountains",
+    "facilities": ["Ski-in/ski-out access", "Hot tub", "Stone fireplace"],
+    "image": "https://i.ibb.co/FxZWqzw/Mountain-Cabin.jpg"
+  },
+  {
+    "id": 8,
+    "segment_name": "Lakefront Homes",
+    "estate_title": "Lakeside Retreat",
+    "description": "Serene lakeside home offering peace and tranquility.",
+    "price": "$800,000",
+    "status": "sale",
+    "area": "3200 sq ft",
+    "location": "Lake Country",
+    "facilities": ["Private dock", "Outdoor living space", "Boat slip"],
+    "image": "https://i.ibb.co/rtYDhmV/Lakefront-Homes.jpg"
+  },
+  {
+    "id": 9,
+    "segment_name": "Coastal Properties",
+    "estate_title": "Oceanfront Villa",
+    "description": "Elegant villa with stunning ocean views, perfect for coastal living.",
+    "price": "$1,500,000",
+    "status": "sale",
+    "area": "4000 sq ft",
+    "location": "Seaside Haven",
+    "facilities": ["Infinity pool", "Beach access", "Outdoor kitchen"],
+    "image": "https://i.ibb.co/NY3C3ZT/Oceanfront-Villa.jpg"
+  }
+]
